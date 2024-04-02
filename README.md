@@ -22,7 +22,7 @@ Key Features:
 - Order creation
 - Stripe checkout
 - Stripe webhooks
-- MySQL + Prisma + PlanetScale
+- PostgreSQL + Prisma + Neon.Tech
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/H-Was1/next13-ecommerce-admin.git
+git clone https://github.com/H-Was1/e-commerce-admin.git
 ```
 
 ### Install packages
@@ -64,7 +64,7 @@ FRONTEND_STORE_URL=http://localhost:3001
 STRIPE_WEBHOOK_SECRET=
 ```
 
-### Connect to PlanetScale and Push Prisma
+### Connect to Neon.Tech and Push Prisma
 
 ```shell
 npx prisma generate
