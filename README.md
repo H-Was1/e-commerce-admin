@@ -18,7 +18,7 @@ Key Features:
 - control which products are "featured" so they show on the homepage!
 - see your orders, sales, etc.
 - see graphs of your revenue etc.
-- You will learn Clerk Authentication!
+- Clerk Authentication!
 - Order creation
 - Stripe checkout
 - Stripe webhooks
